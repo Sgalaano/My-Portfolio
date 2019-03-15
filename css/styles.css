@@ -1,0 +1,22 @@
+body{
+  background-color: skyblue;
+  font-family:normal;
+}
+ h1 {
+   font-style:oblique;
+   text-align: center;
+   font-display:fallback;
+ }
+ img {
+   max-height: 480px;
+   align: center;
+ }
+ .index {
+   text-align: center;
+ }
+ .About{
+   text-decoration-color: pink;
+ }
+ .project{
+   text-align: center;
+ }
