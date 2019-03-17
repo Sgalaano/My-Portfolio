@@ -7,9 +7,9 @@ body{
    text-align: center;
    font-display:fallback;
  }
- img {
+ .avatar{
    max-height: 480px;
-   align: center;
+   border-radius: 50%;
  }
  .index {
    text-align: center;
@@ -19,4 +19,11 @@ body{
  }
  .project{
    text-align: center;
- }
+}
+.line1 {
+  color: red;
+}
+#line2 {
+  color: red;
+}
+  
